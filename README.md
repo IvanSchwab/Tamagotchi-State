@@ -1,4 +1,4 @@
-# Tamagotchi-State
+Tamagotchi-State
   _______
  /       \
 |   ^_^   | ¡Holaa!
